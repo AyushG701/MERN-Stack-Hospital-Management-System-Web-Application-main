@@ -1,0 +1,4 @@
+steps in the backend
+first to install the required package for the project
+
+npm i bcrypt cloudinary cookie-parser cors dotenv express mongoose express-fileupload jsonwebtoken validator
